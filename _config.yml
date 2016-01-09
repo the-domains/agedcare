@@ -1,0 +1,28 @@
+name: agedcare
+favicon: null
+layout_spectrum: 0.600098465802148
+typography_spectrum: 0.767279508523643
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5459276784677058
+  lightness: 0.6949046365916729
+  saturation: 0.06928855273872614
+  rhythmicContrast: 0.05405173706822097
+purpose: []
